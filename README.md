@@ -1,5 +1,6 @@
-📱 iPhone & AirPods Stand — CAD Project
-Overview
+📱 iPhone & AirPods Stand
+---
+CAD-Project Overview:
 This is a custom-designed dual stand for an iPhone and AirPods, created using CAD software (SolidWorks). It includes dedicated slots to route charging cables cleanly, making it both functional and 3D-printable.
 ---
 ## ✨ Features
