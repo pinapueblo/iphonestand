@@ -12,7 +12,7 @@ Charging Access: Integrated open slots for charging cables for both devices.
 Unified Base: Minimalist, space-saving design ideal for desktops or nightstands.
 
 ---
-##💡 Inspiration
+## 💡 Inspiration
 This project was created to combine functionality and aesthetics. It utilizes
 
 Multi-body part modeling
