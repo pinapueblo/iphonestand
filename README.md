@@ -26,6 +26,8 @@ Cut-extrude for wire routing
 
 Assembly layout design
 
+Optimized CAD model of custom phone stand using fill-patterned hexagonal cutouts, reducing part mass by ~12.07%
+
 ---
 ## 🛠 Future Improvements
 Add cable routing channels under the base
